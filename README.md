@@ -16,7 +16,8 @@ Train Set: 1405 Images
 Validation Set: 399 Images
 Test Set: 196 Images
 
-![anno_distribution{caption=Per Class Annotations}](./refImages/correct_pie.jpg)
+Distriubtion of annotations among all classes.
+![anno_distribution](./refImages/correct_pie.jpg)
 
 Dataset is available in COCO JSON format. Refer to [Dataset](./Dataset/) for zipped files for each set. Refer to [Groundtruth](./Groundtruth/) for annotations. Refer to [Code](./Code/) to see implementation of training for each detector.
 
