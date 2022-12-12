@@ -1,7 +1,7 @@
 # BGVP
 BGVP dataset, code &amp; model weights
 
-
+```
 @article{sharma2022comparison,
 
   title={Comparison Of Deep Object Detectors On A New Vulnerable Pedestrian Dataset},
@@ -13,3 +13,4 @@ BGVP dataset, code &amp; model weights
   year={2022}
 
 }
+```
