@@ -59,3 +59,5 @@ We have used the following work in our project.
 
 ## Annotation Tool
 [roboflow](https://roboflow.com/)
+
+This repository is only for non-commercial use.
