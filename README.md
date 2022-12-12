@@ -25,10 +25,15 @@ We trained and tested on five SOTA object detectors: YOLOv4, YOLOv5, YOLOX, Fast
 
 ## Results
 Model | Backbone | Input Size | Params | GFLOPs | mAP 0.5| mAP 0.5:0.95
+ |  |  |  |  |  
 EfficientDet-D0 | Efficient-B0 | 512 | 3.9 M | 2.5 | 0.7048 | 0.4512  
+ |  |  |  |  |  
 Faster R-CNN    | Resnet-50 | 640 | 42 M | 180 | 0.7330 | 0.4860  
+------ | ------ | ------ | ------ | ------ | ------| ------
 YOLOv4 | CSPDarknet-53 | 640 | 27.6 M | 90.2 | 0.7999 | 0.5231  
+------ | ------ | ------ | ------ | ------ | ------| ------
 YOLOv5-s | Modified CSP v5 | 640 | 7.2 M | 16.9 | 0.7000 | 0.4800  
+------ | ------ | ------ | ------ | ------ | ------| ------
 YOLOX-s | Modified CSP v5 | 640 | 8.94 M | 26.8 | 0.7779 | 0.561
 # Cite BGVP
 If you use BGVP in your research, please cite our work by using the following BibTeX entry:
