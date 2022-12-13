@@ -59,4 +59,6 @@ Models:
 Annotation Tool:
 [roboflow](https://roboflow.com/)
 
-# NOTE: This repository is only for non-commercial use.
+# Note 
+
+This repository is only for non-commercial use.
