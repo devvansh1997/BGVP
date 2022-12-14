@@ -50,10 +50,10 @@ If you use BGVP in your research, please cite our work by using the following Bi
 # References
 
 Models:
-[YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)
-[YOLOv4](https://github.com/AlexeyAB/darknet)
-[YOLOv5](https://github.com/ultralytics/yolov5)
-[Faster R-CNN](https://github.com/facebookresearch/detectron2)
+[YOLOX](https://github.com/Megvii-BaseDetection/YOLOX),
+[YOLOv4](https://github.com/AlexeyAB/darknet),
+[YOLOv5](https://github.com/ultralytics/yolov5),
+[Faster R-CNN](https://github.com/facebookresearch/detectron2),
 [EfficientDet](https://github.com/bubbliiiing/efficientdet-pytorch)
 
 Annotation Tool:
