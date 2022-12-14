@@ -1,7 +1,7 @@
 # BGVP: BG Vulnerable Pedestrian Dataset
 BGVP dataset, code &amp; model weights
 
-<arxiv link>
+[Arxiv](https://arxiv.org/abs/2212.06218)
 
 Released on December 12, 2022
 
