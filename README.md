@@ -40,7 +40,7 @@ If you use BGVP in your research, please cite our work by using the following Bi
 
   author={Sharma, Devansh and Hade, Tihitina and Tian, Qing},
 
-  journal={arXiv preprint arXiv:TBD},
+  journal={arXiv preprint arXiv:2212.06218},
 
   year={2022}
 
