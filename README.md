@@ -17,7 +17,7 @@ Validation Set: 399 Images
 Test Set: 196 Images
 
 Distriubtion of annotations among all classes.
-![anno_distribution](./refImages/correct_pie.jpg)
+![anno_distribution](./refImages/correct_donut.png)
 
 Dataset is available in COCO JSON format. Refer to [Dataset](./Dataset/) for zipped files for each set. Refer to [Groundtruth](./Groundtruth/) for annotations. Refer to [Code](./Code/) to see implementation of training for each detector.
 
