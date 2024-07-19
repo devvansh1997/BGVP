@@ -12,9 +12,9 @@ This dataset contains 2,000 images with 5,932 bounding box instances from four c
 
 ![demo](./refImages/cls_and_comp.gif)
 
-Train Set: 1405 Images
-Validation Set: 399 Images
-Test Set: 196 Images
+- Train Set: 1405 Images
+- Validation Set: 399 Images
+- Test Set: 196 Images
 
 Distriubtion of annotations among all classes.
 ![anno_distribution](./refImages/correct_donut.png)
@@ -59,6 +59,14 @@ Models:
 Annotation Tool:
 [roboflow](https://roboflow.com/)
 
-# Note 
+# License
+Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
-This repository is only for non-commercial use.
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License][cc-by-nc-nd].
+
+[![CC BY-NC-ND 4.0][cc-by-nc-nd-image]][cc-by-nc-nd]
+
+[cc-by-nc-nd]: http://creativecommons.org/licenses/by-nc-nd/4.0/
+[cc-by-nc-nd-image]: https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png
+[cc-by-nc-nd-shield]: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg
